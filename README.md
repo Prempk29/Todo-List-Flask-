@@ -16,4 +16,4 @@
 ## Technologies Used
 - Flask
 ## Screenshots
-![Example screenshot](screenshott.png)
+![screenshot](screenshott.png)
