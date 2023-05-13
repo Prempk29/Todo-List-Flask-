@@ -11,7 +11,7 @@
 - My Project is To-do list... 
 - In My project a User can
 - Add a to-do Task 
-- Delete a To-do Task
+- Delete a Task
 - Update a To-do Task
 ## Technologies Used
 - Flask
